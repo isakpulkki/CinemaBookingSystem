@@ -1,6 +1,6 @@
 # CinemaBookingSystem
 
-This project is a booking system for a cinema, where employees manage the shows and customers can book them.
+This project is a booking system for a cinema, where employees can manage the shows and customers can book them.
 
 Some of the features of the application are 
 
