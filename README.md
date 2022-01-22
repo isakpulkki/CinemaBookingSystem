@@ -2,7 +2,7 @@
 
 This project is a booking system for a cinema, where employees can manage the shows and customers can book them.
 
-Some of the features of the application are 
+Some of the features of the application are:
 
 * The employees can add, modify and delete shows 
 * The customers can register and log in to their account 
